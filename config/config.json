@@ -1,16 +1,16 @@
 {
   "development": {
-    "username": "root",
-    "password": "",
-    "database": "senada",
-    "host": "127.0.0.1",
+    "username": "if0_39228736 ",
+    "password": "TXJQ0nw7bvzQr",
+    "database": "if0_39228736_senada",
+    "host": "sql209.infinityfree.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "if0_39228736 ",
+    "password": "TXJQ0nw7bvzQr",
+    "database": "if0_39228736_senada",
+    "host": "sql209.infinityfree.com",
     "dialect": "mysql"
   },
   "production": {
